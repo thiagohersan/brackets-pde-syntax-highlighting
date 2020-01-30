@@ -1,0 +1,12 @@
+{
+  "name": "brackets-pde-syntax-highlighting",
+  "title": "Syntax highlighting for processing pde files",
+  "description": "Highlight all .pde files as Java",
+  "homepage": "https://github.com/thiagohersan",
+  "version": "1.0.0",
+  "author": "Thiago Hersan",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.24.0"
+  }
+}
